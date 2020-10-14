@@ -1,0 +1,19 @@
+{
+  "name": "spaceship_livin",
+  "version": "1.0.0",
+  "description": "Spaceship Livin",
+  "main": "scripts/main.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mulderink1/Spaceship_Livin.git"
+  },
+  "author": "Mike Mulderink, Melissa McLean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mulderink1/Spaceship_Livin/issues"
+  },
+  "homepage": "https://github.com/Mulderink1/Spaceship_Livin#readme"
+}
