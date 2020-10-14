@@ -14,3 +14,5 @@
   - Run `tsc "File Path"`
 
 - ## Push Go Executable to ec2 Instance
+
+- ## Mikey Joined the Project
